@@ -1,2 +1,2 @@
 # -IDEAS-Voxel51-FiftyOne---Multiple-Computer-Vision-Datasets-Exploration-Analysis-Training-Inference.
-IDEAS Autumn Internship 2022=5 - Group 18 
+IDEAS Technology Innovation Hub - ISI Kolkata, Autumn Internship 2025 - Group 18 
