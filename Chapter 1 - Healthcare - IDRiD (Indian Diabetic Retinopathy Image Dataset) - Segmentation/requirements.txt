@@ -1,0 +1,32 @@
+# Python
+python=3.12
+
+# Core Data Science Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Image Processing
+pillow
+opencv-python
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning (for embeddings)
+torch
+torchvision
+
+# FiftyOne and Computer Vision
+fiftyone
+
+# Dimensionality Reduction
+umap-learn
+
+# Progress Bars
+tqdm
+
+# Jupyter Notebook
+jupyter
+ipykernel
