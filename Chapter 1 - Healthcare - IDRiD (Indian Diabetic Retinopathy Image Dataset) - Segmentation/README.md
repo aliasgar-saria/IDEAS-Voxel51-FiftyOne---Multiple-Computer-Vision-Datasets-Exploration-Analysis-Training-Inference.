@@ -4,6 +4,8 @@
 [![FiftyOne](https://img.shields.io/badge/FiftyOne-1.9.0+-orange.svg)](https://voxel51.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+TO VIEW THE NOTEBOOK GO HERE: https://nbviewer.org/github/aliasgar-saria/IDEAS-Voxel51_FiftyOne-Multiple_Computer_Vision_Datasets_Exploration_Analysis_Training_Inference_-/blob/main/Chapter%201%20-%20Healthcare%20-%20IDRiD%20%28Indian%20Diabetic%20Retinopathy%20Image%20Dataset%29%20-%20Segmentation/IDRiD_FiftyOne_Complete_with_Documentation.ipynb
+
 A comprehensive Jupyter notebook demonstrating the power of **Voxel51's FiftyOne library** for medical imaging analysis using the Indian Diabetic Retinopathy Image Dataset (IDRiD).
 
 ![FiftyOne Analysis](img/1.png)
