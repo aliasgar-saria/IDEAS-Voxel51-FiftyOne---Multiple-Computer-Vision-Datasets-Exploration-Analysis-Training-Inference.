@@ -6,7 +6,7 @@
 
 A comprehensive Jupyter notebook demonstrating the power of **Voxel51's FiftyOne library** for medical imaging analysis using the Indian Diabetic Retinopathy Image Dataset (IDRiD).
 
-![FiftyOne Analysis](path/to/your/image.png)
+![FiftyOne Analysis](img/1.png)
 *Interactive exploration of diabetic retinopathy lesions using FiftyOne*
 
 ## 🎯 Project Overview
