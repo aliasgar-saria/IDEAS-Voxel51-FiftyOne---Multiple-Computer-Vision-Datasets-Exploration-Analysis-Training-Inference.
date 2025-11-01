@@ -129,14 +129,19 @@ Applied to:
 - GPU batch processing with OOM recovery
 
 ### 2. Ensemble Learning
-- Logistic Regression, Random Forest, Gradient Boosting
+-- Logistic Regression  
+- Random Forest  
+- Extra Trees  
+- XGBoost  
+- K-Nearest Neighbors  
 - Automatic best-model selection
 - 5-fold stratified cross-validation
 
 ### 3. Interactive Visualization
-- UMAP/t-SNE/PCA projections
-- FiftyOne app: similarity search, filtering
+- UMAP//PCA projections
+- FiftyOne app: similarity search, filtering classification
 - CLIP text search: "spiral galaxy with bright core"
+- FiftyOne aoo: Model Evaluation
 
 ### 4. Anomaly Detection
 - Local Outlier Factor (LOF)
@@ -212,7 +217,7 @@ s in `.kiro/specs/galaxy10-pipeline/tasks.md`
 
 MIT License - See LICENSE file for details
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Galaxy10 DECals dataset: Dieleman et al. (2019)
 - FiftyOne: Voxel51
