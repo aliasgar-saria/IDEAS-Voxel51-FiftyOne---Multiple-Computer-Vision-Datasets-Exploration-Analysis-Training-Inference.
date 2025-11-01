@@ -2,6 +2,12 @@
 <img width="1000" height="662" alt="image" src="https://github.com/user-attachments/assets/fb2c64e1-3f2d-4942-b578-c7df9201d1f1" />
 
 
+[![FiftyOne](https://img.shields.io/badge/FiftyOne-1.9.0+-orange.svg)](https://voxel51.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+[![Conda](https://img.shields.io/badge/Environment-conda-brightgreen.svg)](https://docs.conda.io/)
+[![Torch](https://img.shields.io/badge/PyTorch-2.x-red.svg)](https://pytorch.org/)
+
 Production-ready machine learning pipeline for automated galaxy morphology classification using the Galaxy10 DECals dataset (17,736 images across 10 morphological classes). Optimized for consumer hardware with full CPU parallelization and 4GB GPU support.
 
 ## 🌟 Key Features
