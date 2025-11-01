@@ -1,0 +1,14 @@
+python==3.13.9
+fiftyone==1.9.0
+numpy==2.1.2
+pandas==2.2.3
+scipy==1.15.2
+matplotlib>=3.9.2
+seaborn>=0.13.2
+Pillow==11.0.0
+imagehash==4.3.2
+torch==2.9.0
+torchvision==0.24.0
+torchaudio==2.9.0
+setuptools==80.9.0
+
