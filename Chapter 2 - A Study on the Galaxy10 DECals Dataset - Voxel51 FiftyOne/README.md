@@ -1,4 +1,6 @@
 # Galaxy10 Deep Learning Analysis Pipeline
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05c82d74-a00b-4675-8a89-2fa79fcd4c95" />
+
 
 Production-ready machine learning pipeline for automated galaxy morphology classification using the Galaxy10 DECals dataset (17,736 images across 10 morphological classes). Optimized for consumer hardware with full CPU parallelization and 4GB GPU support.
 
