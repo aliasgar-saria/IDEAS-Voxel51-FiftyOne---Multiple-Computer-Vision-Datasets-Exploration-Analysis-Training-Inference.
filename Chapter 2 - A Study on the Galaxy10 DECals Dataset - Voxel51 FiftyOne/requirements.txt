@@ -1,0 +1,46 @@
+# Galaxy10 Deep Learning Pipeline Requirements
+# Install with: pip install -r requirements.txt
+# Note: PyTorch should already be installed (torch>=2.0.0 with CUDA support)
+
+# Pre-trained Models
+timm
+
+# Computer Vision & ML
+scikit-learn
+scikit-image
+
+# Dimensionality Reduction
+umap-learn
+
+# FiftyOne Ecosystem
+fiftyone
+fiftyone-brain
+
+# CLIP
+git+https://github.com/openai/CLIP.git
+
+# Model Interpretability
+grad-cam
+
+# Data Processing
+numpy
+pandas
+h5py
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter
+jupyterlab
+ipywidgets
+notebook
+
+# Utilities
+tqdm
+joblib
+pillow
+
+# Optional - For FiftyOne GPT
+openai

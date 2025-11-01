@@ -1,0 +1,31 @@
+name: galaxy10
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pytorch 
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=13.0
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - h5py
+  - tqdm
+  - joblib
+  - pip
+  - pip:
+    - timm
+    - umap-learn
+    - fiftyone
+    - fiftyone-brain
+    - openai
+    - git+https://github.com/openai/CLIP.git
+    - grad-cam
+    - plotly
+    - ipywidgets
