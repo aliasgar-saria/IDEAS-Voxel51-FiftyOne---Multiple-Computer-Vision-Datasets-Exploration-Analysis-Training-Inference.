@@ -16,9 +16,14 @@ Production-ready machine learning pipeline for automated galaxy morphology class
 ## 🏗️ Pipeline Architecture
 
 ```
-Data (H5) → Embeddings (4 models) → Training → Visualization 
+Data (H5) → Embeddings (4 models) → Training → Visualization → Anomaly Detection
                                                       ↓
                                               FiftyOne App Integration
+                                                       ↓
+         Interactive Visulization  +   Clip Search    +  Embedding    +   Model Evaluation   
+                   ↓                        ↓                 ↓                  ↓
+               Filtering       Short by Similarity        UMAP/ PCA              ↓
+                                                           Summary | Class Performence | Confusion Matrics                                                     
 ```
 
 ## 📊 Model Architecture
