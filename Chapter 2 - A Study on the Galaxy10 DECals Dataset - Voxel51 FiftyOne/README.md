@@ -48,7 +48,7 @@ Data (H5) → Embeddings (4 models) → Training → Visualization → Anomaly D
 **Option B: Manual Install (Miniconda + Pip)**
 ```bash
 # Create conda environment
-conda create -n galaxy10 python=3.10 -y
+conda create -n galaxy10 python=3.11 -y
 conda activate galaxy10
 
 # Install PyTorch with CUDA 12.1
@@ -192,7 +192,7 @@ Applied to:
 ### CUDA Out of Memory
 ```python
 # Reduce batch_size in notebook cells
-batch_size = 4  # or 2
+batch_size = 8 # or 4/2
 
 # Clear GPU cache
 torch.cuda.empty_cache()
@@ -217,8 +217,6 @@ conda install -c conda-forge fiftyone
 - `notebooks/README.md` - Detailed notebook guide
 - `COMPLETE_PROJECT_SUMMARY.md` - Full pipeline documentation
 - Inline docstrings in all Python modules
-
-s in `.kiro/specs/galaxy10-pipeline/tasks.md`
 
 ## 📄 License
 
